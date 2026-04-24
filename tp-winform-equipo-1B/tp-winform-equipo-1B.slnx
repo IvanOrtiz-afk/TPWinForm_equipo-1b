@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../App.UnitTests/App.UnitTests.csproj" Id="86139837-e037-4303-9122-75216504f202" />
+  <Project Path="../App/App.csproj" />
+</Solution>

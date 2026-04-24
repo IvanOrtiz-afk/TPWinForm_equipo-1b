@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\tp-winform-equipo-1B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\frmarticulo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF18A1-4D9E-CAAD-3989-8C7E2D7402E7}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B30D09D-32C8-4DF0-9EB0-F7672D1C08A3}|..\\App\\App.csproj|c:\\users\\ivan_\\onedrive\\documentos\\facultad\\3er cuatrimestre\\programaci\u00F3n 3\\tp 1 - sistema de gesti\u00F3n de art\u00EDculos\\mi proyecto\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\App\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs",
+              "RelativeToolTip": "..\\App\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:46:04.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "..\\App\\Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "..\\App\\Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAewEcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:44:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\App\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\App\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T23:17:15.52Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "..\\App\\frmArticulo.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.cs",
+              "RelativeToolTip": "..\\App\\frmArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswIgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T02:29:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "..\\App\\frmArticulo.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\App\\frmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T02:19:51.575Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\App\\Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "..\\App\\Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:41:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "..\\App\\Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Marca.cs",
+              "RelativeToolTip": "..\\App\\Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:40:54.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "..\\App\\Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "..\\App\\Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T02:28:37.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "..\\App\\Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "..\\App\\Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T02:28:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\App\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\App\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:52:46.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "..\\App\\Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "..\\App\\Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:43:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmArticulo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.Designer.cs",
+              "RelativeDocumentMoniker": "..\\App\\frmArticulo.Designer.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\frmArticulo.Designer.cs",
+              "RelativeToolTip": "..\\App\\frmArticulo.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T00:13:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "..\\App\\Dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Imagen.cs",
+              "RelativeToolTip": "..\\App\\Dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:42:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "..\\App\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "..\\App\\Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:42:41.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\App\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivan_\\OneDrive\\Documentos\\Facultad\\3er Cuatrimestre\\Programaci\u00F3n 3\\TP 1 - Sistema de gesti\u00F3n de art\u00EDculos\\Mi proyecto\\App\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\App\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T01:38:19.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
